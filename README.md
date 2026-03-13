@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 444,818 | 🐛 76 | 📅 2026-03-09.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 445,094 | 🐛 77 | 📅 2026-03-09.
 
 ## Contents
 
@@ -34,7 +34,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Data Sets
 
-* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,237 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
+* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,238 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
 * [Defects4J](https://github.com/rjust/defects4j) ⭐ 936 | 🐛 55 | 🌐 Perl | 📅 2025-10-11 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
 * [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 227 | 🐛 20 | 🌐 C++ | 📅 2026-03-04.
 * [mzdata](https://github.com/jxshin/mzdata) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-05-14 - Multi-extract and multi-level dataset of Mozilla issue tracking history.
@@ -68,8 +68,8 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 947 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 477 | 🐛 24 | 🌐 Java | 📅 2026-03-11 - Library/API for detection of refactorings in changes of Java code.
-* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 314 | 🐛 34 | 🌐 Python | 📅 2026-03-03 - Fetch repository data from tens of back-ends.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 478 | 🐛 24 | 🌐 Java | 📅 2026-03-12 - Library/API for detection of refactorings in changes of Java code.
+* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 315 | 🐛 34 | 🌐 Python | 📅 2026-03-03 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 189 | 🐛 17 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
 * [reaper](https://github.com/RepoReapers/reaper) ⭐ 114 | 🐛 6 | 🌐 Python | 📅 2020-09-27 - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
@@ -80,7 +80,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 * [Maven-miner](https://github.com/diverse-project/maven-miner) ⭐ 32 | 🐛 14 | 🌐 Java | 📅 2022-09-01 - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
 * [buckwheat](https://github.com/JetBrains-Research/buckwheat) ⭐ 24 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-04-27 - Multi-language tokenizer for extracting identifiers from source code.
 * [Diggit](https://github.com/jrfaller/diggit) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2021-09-07 - Agile Ruby Tool to analyze Git repositories.
-* [GitEvo](https://github.com/andrehora/gitevo) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-11-16 - Code evolution analysis for Git repositories.
+* [GitEvo](https://github.com/andrehora/gitevo) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-11-16 - Code evolution analysis for Git repositories.
 * [DbDeo](https://github.com/tushartushar/DbDeo) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2018-01-24 - Extract embedded SQL statements and detect database schema smells.
 * [CryptOSS](https://github.com/rvantonder/CryptOSS) ⭐ 7 | 🐛 2 | 🌐 OCaml | 📅 2019-07-04 - Mine GitHub activity and market cap data for cryptocurrency projects.
 * [Boa](http://boa.cs.iastate.edu/) - Domain-specific language and infrastructure that eases mining software repositories.
