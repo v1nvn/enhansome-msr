@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 445,297 | 🐛 80 | 📅 2026-03-09.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 445,550 | 🐛 81 | 📅 2026-03-09.
 
 ## Contents
 
@@ -22,7 +22,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Repositories
 
-* [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) ⭐ 420 | 🐛 3 | 🌐 R | 📅 2026-02-11 All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
+* [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) ⭐ 421 | 🐛 3 | 🌐 R | 📅 2026-02-11 All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
 * [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 * [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data.
 * [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research.
@@ -68,7 +68,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 946 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 478 | 🐛 24 | 🌐 Java | 📅 2026-03-13 - Library/API for detection of refactorings in changes of Java code.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 478 | 🐛 24 | 🌐 Java | 📅 2026-03-15 - Library/API for detection of refactorings in changes of Java code.
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 315 | 🐛 35 | 🌐 Python | 📅 2026-03-14 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 189 | 🐛 17 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
