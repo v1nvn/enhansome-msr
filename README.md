@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 447,702 | 🐛 86 | 📅 2026-03-09.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 448,025 | 🐛 88 | 📅 2026-03-09.
 
 ## Contents
 
@@ -34,7 +34,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Data Sets
 
-* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,242 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
+* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,243 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
 * [Defects4J](https://github.com/rjust/defects4j) ⭐ 941 | 🐛 55 | 🌐 Perl | 📅 2025-10-11 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
 * [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 228 | 🐛 25 | 🌐 C++ | 📅 2026-03-17.
 * [mzdata](https://github.com/jxshin/mzdata) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-05-14 - Multi-extract and multi-level dataset of Mozilla issue tracking history.
@@ -68,7 +68,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 947 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 480 | 🐛 23 | 🌐 Java | 📅 2026-03-21 - Library/API for detection of refactorings in changes of Java code.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 480 | 🐛 23 | 🌐 Java | 📅 2026-03-23 - Library/API for detection of refactorings in changes of Java code.
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 315 | 🐛 35 | 🌐 Python | 📅 2026-03-14 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 189 | 🐛 17 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
