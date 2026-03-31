@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 449,985 | 🐛 87 | 📅 2026-03-09.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 450,300 | 🐛 88 | 📅 2026-03-09.
 
 ## Contents
 
@@ -34,9 +34,9 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Data Sets
 
-* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,242 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
+* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,239 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
 * [Defects4J](https://github.com/rjust/defects4j) ⭐ 947 | 🐛 55 | 🌐 Perl | 📅 2025-10-11 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
-* [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 228 | 🐛 28 | 🌐 C++ | 📅 2026-03-24.
+* [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 228 | 🐛 30 | 🌐 C++ | 📅 2026-03-24.
 * [mzdata](https://github.com/jxshin/mzdata) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-05-14 - Multi-extract and multi-level dataset of Mozilla issue tracking history.
 * [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-11-21 - Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 * [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2015-07-07 - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org).
@@ -68,11 +68,11 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 946 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 479 | 🐛 23 | 🌐 Java | 📅 2026-03-30 - Library/API for detection of refactorings in changes of Java code.
-* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 316 | 🐛 37 | 🌐 Python | 📅 2026-03-29 - Fetch repository data from tens of back-ends.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 479 | 🐛 23 | 🌐 Java | 📅 2026-03-31 - Library/API for detection of refactorings in changes of Java code.
+* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 316 | 🐛 38 | 🌐 Python | 📅 2026-03-30 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 190 | 🐛 17 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
-* [reaper](https://github.com/RepoReapers/reaper) ⭐ 114 | 🐛 6 | 🌐 Python | 📅 2020-09-27 - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
+* [reaper](https://github.com/RepoReapers/reaper) ⭐ 115 | 🐛 6 | 🌐 Python | 📅 2020-09-27 - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
 * [Coming](https://github.com/SpoonLabs/coming/) ⭐ 100 | 🐛 27 | 🌐 Java | 📅 2024-11-13 - A Java framework for analyzing code changes and mining instances of change patterns from Git repositories.
 * [qmcalc](https://github.com/dspinellis/cqmetrics) ⭐ 69 | 🐛 4 | 🌐 C++ | 📅 2022-06-14 - Calculate quality metrics from C source code.
 * [VulData7](https://github.com/electricalwind/data7) ⭐ 44 | 🐛 4 | 🌐 Java | 📅 2019-01-11 - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
