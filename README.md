@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 450,300 | 🐛 88 | 📅 2026-03-09.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 450,602 | 🐛 85 | 📅 2026-03-09.
 
 ## Contents
 
@@ -34,9 +34,9 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Data Sets
 
-* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,239 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
-* [Defects4J](https://github.com/rjust/defects4j) ⭐ 947 | 🐛 55 | 🌐 Perl | 📅 2025-10-11 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
-* [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 228 | 🐛 30 | 🌐 C++ | 📅 2026-03-24.
+* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,241 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
+* [Defects4J](https://github.com/rjust/defects4j) ⭐ 948 | 🐛 55 | 🌐 Perl | 📅 2025-10-11 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
+* [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 229 | 🐛 30 | 🌐 C++ | 📅 2026-03-24.
 * [mzdata](https://github.com/jxshin/mzdata) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-05-14 - Multi-extract and multi-level dataset of Mozilla issue tracking history.
 * [OCL Expressions on GitHub](https://github.com/tue-mdse/ocl-dataset) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2022-11-21 - Data set of 9188 OCL expressions originating from 504 EMF meta-models in 245 systematically selected GitHub repositories.
 * [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2015-07-07 - Set of FindBugs reports for the Java projects of the [Maven repository](https://maven.apache.org).
@@ -68,7 +68,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 946 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 479 | 🐛 23 | 🌐 Java | 📅 2026-03-31 - Library/API for detection of refactorings in changes of Java code.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 479 | 🐛 23 | 🌐 Java | 📅 2026-04-01 - Library/API for detection of refactorings in changes of Java code.
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 316 | 🐛 38 | 🌐 Python | 📅 2026-03-30 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 190 | 🐛 17 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
