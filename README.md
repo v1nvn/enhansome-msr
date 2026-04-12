@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 453,981 | 🐛 59 | 📅 2026-04-02.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 454,331 | 🐛 60 | 📅 2026-04-02.
 
 ## Contents
 
@@ -22,7 +22,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Repositories
 
-* [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) ⭐ 421 | 🐛 3 | 🌐 R | 📅 2026-02-11 All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
+* [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) ⭐ 422 | 🐛 3 | 🌐 R | 📅 2026-02-11 All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
 * [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 * [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data.
 * [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research.
