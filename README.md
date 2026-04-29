@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 459,676 | 🐛 68 | 📅 2026-04-19.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 460,011 | 🐛 67 | 📅 2026-04-19.
 
 ## Contents
 
@@ -68,8 +68,8 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 952 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 484 | 🐛 22 | 🌐 Java | 📅 2026-04-27 - Library/API for detection of refactorings in changes of Java code.
-* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 317 | 🐛 39 | 🌐 Python | 📅 2026-04-22 - Fetch repository data from tens of back-ends.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 484 | 🐛 22 | 🌐 Java | 📅 2026-04-28 - Library/API for detection of refactorings in changes of Java code.
+* [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 317 | 🐛 40 | 🌐 Python | 📅 2026-04-22 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 191 | 🐛 17 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
 * [reaper](https://github.com/RepoReapers/reaper) ⭐ 116 | 🐛 6 | 🌐 Python | 📅 2020-09-27 - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is *engineered*.
@@ -77,7 +77,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 * [qmcalc](https://github.com/dspinellis/cqmetrics) ⭐ 69 | 🐛 4 | 🌐 C++ | 📅 2022-06-14 - Calculate quality metrics from C source code.
 * [VulData7](https://github.com/electricalwind/data7) ⭐ 44 | 🐛 4 | 🌐 Java | 📅 2019-01-11 - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 * [Puppeteer](https://github.com/tushartushar/Puppeteer) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2020-09-26 - Detect configuration smells in Puppet code.
-* [Maven-miner](https://github.com/diverse-project/maven-miner) ⭐ 32 | 🐛 14 | 🌐 Java | 📅 2022-09-01 - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
+* [Maven-miner](https://github.com/diverse-project/maven-miner) ⭐ 33 | 🐛 14 | 🌐 Java | 📅 2022-09-01 - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.
 * [buckwheat](https://github.com/JetBrains-Research/buckwheat) ⭐ 24 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-04-27 - Multi-language tokenizer for extracting identifiers from source code.
 * [Diggit](https://github.com/jrfaller/diggit) ⭐ 20 | 🐛 1 | 🌐 Ruby | 📅 2021-09-07 - Agile Ruby Tool to analyze Git repositories.
 * [GitEvo](https://github.com/andrehora/gitevo) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2025-11-16 - Code evolution analysis for Git repositories.
