@@ -214,7 +214,7 @@
             "last_commit": "2026-01-05T16:53:18Z",
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7192
+            "stars": 7191
           }
         }
       ],
@@ -372,7 +372,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T17:26:31Z",
+            "last_commit": "2026-05-13T05:30:16Z",
             "owner": "chaoss",
             "repo": "grimoirelab-perceval",
             "stars": 319
@@ -437,7 +437,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-11T20:05:21Z",
+            "last_commit": "2026-05-13T00:20:01Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 487
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:27:44.249Z",
+    "last_updated": "2026-05-13T05:38:15.795Z",
     "original_repository": "dspinellis/awesome-msr",
     "source_repository": "v1nvn/enhansome-msr",
     "source_repository_description": null,
