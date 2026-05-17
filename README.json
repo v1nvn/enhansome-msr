@@ -43,7 +43,7 @@
             "last_commit": "2026-04-07T08:58:28Z",
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 964
+            "stars": 965
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2020-09-26T23:27:35Z",
             "owner": "tushartushar",
             "repo": "Puppeteer",
-            "stars": 40
+            "stars": 41
           }
         },
         {
@@ -427,7 +427,7 @@
             "last_commit": "2020-09-27T19:24:26Z",
             "owner": "RepoReapers",
             "repo": "reaper",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -437,7 +437,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-16T01:27:07Z",
+            "last_commit": "2026-05-17T01:30:06Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 487
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:16:20.121Z",
+    "last_updated": "2026-05-17T05:37:43.623Z",
     "original_repository": "dspinellis/awesome-msr",
     "source_repository": "v1nvn/enhansome-msr",
     "source_repository_description": null,
