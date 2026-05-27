@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,091 | 🐛 77 | 📅 2026-05-05.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 470,364 | 🐛 77 | 📅 2026-05-05.
 
 ## Contents
 
@@ -22,7 +22,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Repositories
 
-* [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) ⭐ 423 | 🐛 3 | 🌐 R | 📅 2026-02-11 All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
+* [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) ⭐ 422 | 🐛 3 | 🌐 R | 📅 2026-02-11 All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
 * [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 * [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data.
 * [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research.
@@ -34,7 +34,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Data Sets
 
-* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,208 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
+* [Unix history](https://github.com/dspinellis/unix-history-repo) ⭐ 7,205 | 🐛 0 | 🌐 Assembly | 📅 2026-01-05 - Git repository with 46 years of Unix history evolution.
 * [Defects4J](https://github.com/rjust/defects4j) ⭐ 969 | 🐛 56 | 🌐 Perl | 📅 2026-04-07 - Collection of 395 reproducible bugs collected with the goal of advancing software testing research.
 * [Linux Kernel 4.21 Call Graphs](https://zenodo.org/record/2652487#.XRnvomUzb0o) - The Linux Kernel 4.21 Call Graphs produced using [CScout](https://github.com/dspinellis/cscout/) ⭐ 229 | 🐛 11 | 🌐 C++ | 📅 2026-05-04.
 * [mzdata](https://github.com/jxshin/mzdata) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2016-05-14 - Multi-extract and multi-level dataset of Mozilla issue tracking history.
@@ -67,8 +67,8 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Tools
 
-* [PyDriller](https://github.com/ishepard/pydriller) ⭐ 956 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 488 | 🐛 24 | 🌐 Java | 📅 2026-05-25 - Library/API for detection of refactorings in changes of Java code.
+* [PyDriller](https://github.com/ishepard/pydriller) ⭐ 957 | 🐛 15 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 488 | 🐛 24 | 🌐 Java | 📅 2026-05-27 - Library/API for detection of refactorings in changes of Java code.
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 320 | 🐛 40 | 🌐 Python | 📅 2026-05-22 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 192 | 🐛 18 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.
