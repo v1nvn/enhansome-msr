@@ -214,7 +214,7 @@
             "last_commit": "2026-01-05T16:53:18Z",
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7212
+            "stars": 7213
           }
         }
       ],
@@ -437,7 +437,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-29T15:15:29Z",
+            "last_commit": "2026-05-31T00:57:07Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
             "stars": 488
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:38:02.595Z",
+    "last_updated": "2026-05-31T06:05:50.063Z",
     "original_repository": "dspinellis/awesome-msr",
     "source_repository": "v1nvn/enhansome-msr",
     "source_repository_description": null,
