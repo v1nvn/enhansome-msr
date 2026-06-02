@@ -214,7 +214,7 @@
             "last_commit": "2026-01-05T16:53:18Z",
             "owner": "dspinellis",
             "repo": "unix-history-repo",
-            "stars": 7214
+            "stars": 7216
           }
         }
       ],
@@ -437,11 +437,16 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-31T14:07:22Z",
+            "last_commit": "2026-06-01T15:53:02Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
-            "stars": 488
+            "stars": 489
           }
+        },
+        {
+          "children": [],
+          "description": "Software testing analysis for GitHub repositories.",
+          "title": "TestMiner"
         },
         {
           "children": [],
@@ -466,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T06:43:14.305Z",
+    "last_updated": "2026-06-02T06:25:17.115Z",
     "original_repository": "dspinellis/awesome-msr",
     "source_repository": "v1nvn/enhansome-msr",
     "source_repository_description": null,
