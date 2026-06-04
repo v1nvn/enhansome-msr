@@ -43,7 +43,7 @@
             "last_commit": "2026-04-07T08:58:28Z",
             "owner": "rjust",
             "repo": "defects4j",
-            "stars": 969
+            "stars": 968
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2025-11-07T15:15:09Z",
             "owner": "JetBrains-Research",
             "repo": "astminer",
-            "stars": 300
+            "stars": 299
           }
         },
         {
@@ -437,10 +437,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-03T03:00:43Z",
+            "last_commit": "2026-06-03T11:46:49Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
-            "stars": 489
+            "stars": 490
           }
         },
         {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-03T06:41:55.770Z",
+    "last_updated": "2026-06-04T06:26:04.696Z",
     "original_repository": "dspinellis/awesome-msr",
     "source_repository": "v1nvn/enhansome-msr",
     "source_repository_description": null,
