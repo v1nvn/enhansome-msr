@@ -11,7 +11,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
   you can contribute.
   Alternatively, you can send me an [email](origin/mailto:dds@aueb.gr)
   if you find the process too cumbersome or confusing.
-* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 474,973 | 🐛 82 | 📅 2026-06-02.
+* For more awesome lists, see [awesome](https://github.com/sindresorhus/awesome) ⭐ 475,255 | 🐛 81 | 📅 2026-06-02.
 
 ## Contents
 
@@ -68,7 +68,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 ## Tools
 
 * [PyDriller](https://github.com/ishepard/pydriller) ⭐ 961 | 🐛 13 | 🌐 Python | 📅 2025-12-28 - Python Framework to analyse Git repositories.
-* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 490 | 🐛 27 | 🌐 Java | 📅 2026-06-12 - Library/API for detection of refactorings in changes of Java code.
+* [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) ⭐ 491 | 🐛 29 | 🌐 Java | 📅 2026-06-13 - Library/API for detection of refactorings in changes of Java code.
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval) ⭐ 322 | 🐛 42 | 🌐 Python | 📅 2026-06-02 - Fetch repository data from tens of back-ends.
 * [astminer](https://github.com/JetBrains-Research/astminer) ⚠️ Archived - Library and tool for mining of path-based representations of code and other data derived from ASTs.
 * [DesigniteJava](https://github.com/tushartushar/DesigniteJava) ⭐ 193 | 🐛 18 | 🌐 Java | 📅 2025-03-21 - Compute source code metrics and detect a variety of implementation and design smells for Java.

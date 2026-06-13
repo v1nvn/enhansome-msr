@@ -437,10 +437,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-12T01:43:52Z",
+            "last_commit": "2026-06-13T03:15:02Z",
             "owner": "tsantalis",
             "repo": "RefactoringMiner",
-            "stars": 490
+            "stars": 491
           }
         },
         {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T06:22:40.221Z",
+    "last_updated": "2026-06-13T06:05:37.410Z",
     "original_repository": "dspinellis/awesome-msr",
     "source_repository": "v1nvn/enhansome-msr",
     "source_repository_description": null,
